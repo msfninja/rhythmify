@@ -1,2 +1,2 @@
-# Rythmify
+# Rhythmify
 A Simple Music Player
